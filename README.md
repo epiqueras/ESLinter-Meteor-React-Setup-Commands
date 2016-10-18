@@ -1,4 +1,4 @@
-# ESLinter-Meteor-React-Setup-Commands
+# ESLinter Meteor React Setup Commands
 Setup commands for using ESLinter with Meteor and React.
 
 ## Run in root project directory:
